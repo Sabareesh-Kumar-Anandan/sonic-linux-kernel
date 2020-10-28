@@ -62,4 +62,6 @@ driver-ixgbe-external-phy.patch
 0011-mlxsw-core-thermal-Separate-temperature-trend-read-c.patch
 0012-Add-support-for-new-transceivers-types-QSFP-DD-and-Q.patch
 0013-watchdog-mlx-wdt-support-new-watchdog-type-with-long.patch
+#Marvell patches
+0120-DTS-files-for-platform-ET6448M-and-IPD6448M.patch
 
